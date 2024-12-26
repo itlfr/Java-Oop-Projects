@@ -5,11 +5,7 @@ Welcome to the **Projects in Learning Java OOP** repository! This repository is 
 ---
 
 ## Table of Contents
-1. [Project 1: Basic Classes and Objects](#project-1-basic-classes-and-objects)  
-2. [Project 2: Inheritance and Polymorphism](#project-2-inheritance-and-polymorphism)  
-3. [Project 3: Abstract Classes and Interfaces](#project-3-abstract-classes-and-interfaces)  
-4. [Project 4: Exception Handling](#project-4-exception-handling)  
-5. [Project 5: File Handling with OOP](#project-5-file-handling-with-oop)  
+1. [Project 1: Basic Classes and Objects](#project-1-basic-classes-and-objects)
 
 ---
 
