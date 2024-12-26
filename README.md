@@ -15,10 +15,6 @@ Welcome to the **Projects in Learning Java OOP** repository! This repository is 
   
 📁 Folder: [`BasicClasses`](./BasicClasses)  
 This project introduces you to creating simple classes, objects, and methods in Java.  
-**File Map:**
-
-BasicClasses/ ├── Main.java             # Entry point for the program ├── Person.java           # Represents a basic Person class └── Utilities.java        # Helper functions for the project
-
 
 ---
 
