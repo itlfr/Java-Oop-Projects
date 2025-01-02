@@ -25,9 +25,8 @@ This project introduces you to creating simple classes, objects, and methods in 
    git clone https://github.com/itlfr/java-oop-projects.git
 
 2. Navigate to the project folder of your choice.
-
-
-3. Compile and run the Java files using your preferred IDE or the command line.
+3. UnZip The chosen project. 
+4. Compile and run the Java files using your preferred IDE or the command line.
 
 
 
