@@ -2,6 +2,9 @@
 
 Welcome to the **Projects in Learning Java OOP** repository! This repository is designed to help you learn the concepts of Object-Oriented Programming (OOP) in Java through practical projects.
 
+**[Youtube playlist](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv&si=PhWEXF-JEhODz36_) which projects have been implemented**
+
+
 ---
 
 ## Table of Contents
